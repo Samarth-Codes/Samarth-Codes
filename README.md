@@ -63,3 +63,5 @@ Sorting Visualizer - ⚛️ A dynamic web app built with React that visualizes v
 
 Feel free to reach out if you want to chat about tech, climate action, or just have a good ol' geeky conversation! 🤓 Let's make the world a better place, one line of code at a time! 🌍💚
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samarth-Codes&show_icons=true&theme=radical)
+
