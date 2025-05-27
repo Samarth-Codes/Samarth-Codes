@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # every day at midnight
+    - cron: "0 0 * * *" # Runs every day at midnight
   workflow_dispatch:
 
 jobs:
@@ -12,12 +12,23 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: Samarth-Codes
+
+          # Output paths
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
-          # Set a dark-friendly palette
-          svg_out_path: dist/github-contribution-grid-snake-dark.svg
-          palette: github-dark
+            dist/samarth-snake-light.svg
+            dist/samarth-snake-dark.svg
+
+          # Light theme version
+          svg_out_path: dist/samarth-snake-light.svg
+          palette: github-light
+
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Samarth-Codes
+
+          # Dark theme version with custom palette
+          svg_out_path: dist/samarth-snake-dark.svg
+          palette: "[#00FFAA, #00CCFF, #6699FF, #9966FF, #CC66FF, #FF66CC, #FF6699]"
 
       - name: Push to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
