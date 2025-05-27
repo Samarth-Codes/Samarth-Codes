@@ -75,6 +75,5 @@ A Web3 tool that enables crypto transactions using plain English (92% accuracy).
 ![Samarth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samarth-Codes&show_icons=true&theme=radical)
 
 ## 🐍 Watch My Contributions Snake 🐍
-
-![snake gif](https://raw.githubusercontent.com/Samarth-Codes/Samarth-Codes/output/dist/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/Samarth-Codes/Samarth-Codes/blob/output/github-contribution-grid-snake-dark.svg)
 
