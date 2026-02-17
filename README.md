@@ -69,9 +69,9 @@ A Web3 tool that enables crypto transactions using plain English (92% accuracy).
 - 👨‍💻 [GitHub](https://github.com/Samarth-Codes)
 
 ---
-
+CHECK OUT MY PORTFOLIO:samarthcodes.dev
 > Let's make the world a better place — one line of code at a time. 🌍💚
 
-![Samarth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samarth-Codes&show_icons=true&theme=radical)
+
 
 
