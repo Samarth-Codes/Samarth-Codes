@@ -67,9 +67,9 @@ A Web3 tool that enables crypto transactions using plain English (92% accuracy).
 - 📧 [samarth260805@gmail.com](mailto:samarth260805@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/samarth-codes/)
 - 👨‍💻 [GitHub](https://github.com/Samarth-Codes)
+- [PORTFOLIO](https://www.samarthcodes.dev)
 
 ---
-CHECK OUT MY PORTFOLIO:samarthcodes.dev
 > Let's make the world a better place — one line of code at a time. 🌍💚
 
 
